@@ -18,7 +18,7 @@ The script computes matching **precision** based on reprojection error after **R
 
 Install dependencies:
 
-'''
+```bash
 pip install torch torchvision opencv-python numpy tqdm
 
 pip install torch einops yacs kornia
@@ -26,33 +26,35 @@ pip install torch einops yacs kornia
 git clone https://github.com/cvg/LightGlue.git
 
 git clone https://github.com/zju3dv/LoFTR.git
-'''
-#Usage
+```
 
+## Usage
+```bash
 python run_patches.py \
   --root /path/to/datasets \
   --out_dir /path/to/save/results \
   --dataset both \
   --lg_path /path/to/LightGlue \
   --lft_path /path/to/LoFTR
+```  
   
-  
-#Outputs
+## Outputs
 
-
+```bash
 ├── sift_pairs.json
 ├── orb_pairs.json
 ├── sp_lg_pairs.json
 ├── loftr_pairs.json
 └── summary.csv  
-  
+```
+
 *_pairs.json: contains per-pair statistics:
 
-precision
+- precision
 
-number of matches
+- number of matches
 
-time taken
+- time taken
 
 summary.csv: aggregated performance summary across the dataset.
   
