@@ -1,0 +1,5 @@
+algo,mean_precision,mean_time(s),avg_matches
+sift,0.508,0.098,849.0
+orb,0.483,0.053,1490.8
+sp_lg,0.840,0.121,893.6
+loftr,0.830,0.158,2338.3

@@ -1,0 +1,4307 @@
+[
+  {
+    "n_matches": 925,
+    "precision": 0.9827027027027027,
+    "time": 0.497194766998291,
+    "sequence": "hpatches:i_ajuntament",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 634,
+    "precision": 0.9463722397476341,
+    "time": 0.12321329116821289,
+    "sequence": "hpatches:i_ajuntament",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 436,
+    "precision": 0.9174311926605505,
+    "time": 0.12254023551940918,
+    "sequence": "hpatches:i_ajuntament",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 442,
+    "precision": 0.9321266968325792,
+    "time": 0.1220254898071289,
+    "sequence": "hpatches:i_ajuntament",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 437,
+    "precision": 0.9061784897025171,
+    "time": 0.12257814407348633,
+    "sequence": "hpatches:i_ajuntament",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 515,
+    "precision": 0.9786407766990292,
+    "time": 0.10542535781860352,
+    "sequence": "hpatches:i_autannes",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 494,
+    "precision": 0.9777327935222672,
+    "time": 0.10761547088623047,
+    "sequence": "hpatches:i_autannes",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 394,
+    "precision": 0.8553299492385786,
+    "time": 0.11007237434387207,
+    "sequence": "hpatches:i_autannes",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 408,
+    "precision": 0.9313725490196079,
+    "time": 0.11438846588134766,
+    "sequence": "hpatches:i_autannes",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 452,
+    "precision": 0.9491150442477876,
+    "time": 0.10367250442504883,
+    "sequence": "hpatches:i_autannes",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 668,
+    "precision": 0.9940119760479041,
+    "time": 0.09965920448303223,
+    "sequence": "hpatches:i_bologna",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 623,
+    "precision": 0.9887640449438202,
+    "time": 0.09946274757385254,
+    "sequence": "hpatches:i_bologna",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 631,
+    "precision": 0.9873217115689382,
+    "time": 0.09795284271240234,
+    "sequence": "hpatches:i_bologna",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 600,
+    "precision": 0.9833333333333333,
+    "time": 0.09850311279296875,
+    "sequence": "hpatches:i_bologna",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 574,
+    "precision": 0.9686411149825784,
+    "time": 0.09853577613830566,
+    "sequence": "hpatches:i_bologna",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 888,
+    "precision": 0.9898648648648649,
+    "time": 0.11343193054199219,
+    "sequence": "hpatches:i_books",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 875,
+    "precision": 0.9828571428571429,
+    "time": 0.11388516426086426,
+    "sequence": "hpatches:i_books",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 903,
+    "precision": 0.9811738648947951,
+    "time": 0.11343216896057129,
+    "sequence": "hpatches:i_books",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 921,
+    "precision": 0.9847991313789359,
+    "time": 0.1096341609954834,
+    "sequence": "hpatches:i_books",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 882,
+    "precision": 0.9807256235827665,
+    "time": 0.11387157440185547,
+    "sequence": "hpatches:i_books",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1317,
+    "precision": 0.9802581624905087,
+    "time": 0.1732935905456543,
+    "sequence": "hpatches:i_boutique",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1329,
+    "precision": 0.9699021820917983,
+    "time": 0.1475968360900879,
+    "sequence": "hpatches:i_boutique",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1308,
+    "precision": 0.9625382262996942,
+    "time": 0.1298661231994629,
+    "sequence": "hpatches:i_boutique",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1058,
+    "precision": 0.9574669187145558,
+    "time": 0.14178705215454102,
+    "sequence": "hpatches:i_boutique",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1039,
+    "precision": 0.9643888354186718,
+    "time": 0.14527153968811035,
+    "sequence": "hpatches:i_boutique",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1188,
+    "precision": 0.9696969696969697,
+    "time": 0.1009521484375,
+    "sequence": "hpatches:i_bridger",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1076,
+    "precision": 0.9684014869888475,
+    "time": 0.09969568252563477,
+    "sequence": "hpatches:i_bridger",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1103,
+    "precision": 0.9909338168631007,
+    "time": 0.09945392608642578,
+    "sequence": "hpatches:i_bridger",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 929,
+    "precision": 0.9677072120559742,
+    "time": 0.09838533401489258,
+    "sequence": "hpatches:i_bridger",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 690,
+    "precision": 0.9391304347826087,
+    "time": 0.11348676681518555,
+    "sequence": "hpatches:i_bridger",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1380,
+    "precision": 0.981159420289855,
+    "time": 0.11694812774658203,
+    "sequence": "hpatches:i_brooklyn",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1541,
+    "precision": 0.945489941596366,
+    "time": 0.10957789421081543,
+    "sequence": "hpatches:i_brooklyn",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1235,
+    "precision": 0.9392712550607287,
+    "time": 0.11583256721496582,
+    "sequence": "hpatches:i_brooklyn",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1613,
+    "precision": 0.9293242405455673,
+    "time": 0.11051774024963379,
+    "sequence": "hpatches:i_brooklyn",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1388,
+    "precision": 0.8998559077809798,
+    "time": 0.1172327995300293,
+    "sequence": "hpatches:i_brooklyn",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 884,
+    "precision": 0.9785067873303167,
+    "time": 0.13380646705627441,
+    "sequence": "hpatches:i_castle",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 977,
+    "precision": 0.9795291709314228,
+    "time": 0.11876130104064941,
+    "sequence": "hpatches:i_castle",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 889,
+    "precision": 0.9730033745781778,
+    "time": 0.11942386627197266,
+    "sequence": "hpatches:i_castle",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 821,
+    "precision": 0.9914738124238733,
+    "time": 0.12967300415039062,
+    "sequence": "hpatches:i_castle",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 865,
+    "precision": 0.9815028901734104,
+    "time": 0.1301283836364746,
+    "sequence": "hpatches:i_castle",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1086,
+    "precision": 0.9834254143646409,
+    "time": 0.12203049659729004,
+    "sequence": "hpatches:i_chestnuts",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1098,
+    "precision": 0.9726775956284153,
+    "time": 0.12179732322692871,
+    "sequence": "hpatches:i_chestnuts",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1104,
+    "precision": 0.9710144927536232,
+    "time": 0.12214779853820801,
+    "sequence": "hpatches:i_chestnuts",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1048,
+    "precision": 0.9732824427480916,
+    "time": 0.12172102928161621,
+    "sequence": "hpatches:i_chestnuts",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 933,
+    "precision": 0.9742765273311897,
+    "time": 0.1280834674835205,
+    "sequence": "hpatches:i_chestnuts",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1865,
+    "precision": 0.9935656836461126,
+    "time": 0.11278390884399414,
+    "sequence": "hpatches:i_contruction",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1806,
+    "precision": 0.9928017718715393,
+    "time": 0.13767075538635254,
+    "sequence": "hpatches:i_contruction",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1596,
+    "precision": 0.9924812030075187,
+    "time": 0.12522149085998535,
+    "sequence": "hpatches:i_contruction",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1272,
+    "precision": 0.9827044025157232,
+    "time": 0.1427140235900879,
+    "sequence": "hpatches:i_contruction",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1144,
+    "precision": 0.9615384615384616,
+    "time": 0.13070034980773926,
+    "sequence": "hpatches:i_contruction",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 826,
+    "precision": 0.986682808716707,
+    "time": 0.1311502456665039,
+    "sequence": "hpatches:i_crownday",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 933,
+    "precision": 0.9871382636655949,
+    "time": 0.1313948631286621,
+    "sequence": "hpatches:i_crownday",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 995,
+    "precision": 0.9839195979899498,
+    "time": 0.12171030044555664,
+    "sequence": "hpatches:i_crownday",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1053,
+    "precision": 0.9829059829059829,
+    "time": 0.12173891067504883,
+    "sequence": "hpatches:i_crownday",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 822,
+    "precision": 0.9878345498783455,
+    "time": 0.13235950469970703,
+    "sequence": "hpatches:i_crownday",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1037,
+    "precision": 0.9797492767598843,
+    "time": 0.11374545097351074,
+    "sequence": "hpatches:i_crownnight",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1004,
+    "precision": 0.9661354581673307,
+    "time": 0.11170697212219238,
+    "sequence": "hpatches:i_crownnight",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 971,
+    "precision": 0.9691040164778579,
+    "time": 0.11113715171813965,
+    "sequence": "hpatches:i_crownnight",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 884,
+    "precision": 0.9660633484162896,
+    "time": 0.11124658584594727,
+    "sequence": "hpatches:i_crownnight",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 299,
+    "precision": 0.8361204013377926,
+    "time": 0.11277365684509277,
+    "sequence": "hpatches:i_crownnight",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 980,
+    "precision": 0.9755102040816327,
+    "time": 0.11533451080322266,
+    "sequence": "hpatches:i_dc",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 957,
+    "precision": 0.9582027168234065,
+    "time": 0.11460018157958984,
+    "sequence": "hpatches:i_dc",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 916,
+    "precision": 0.9596069868995634,
+    "time": 0.11432266235351562,
+    "sequence": "hpatches:i_dc",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 904,
+    "precision": 0.9579646017699115,
+    "time": 0.11446046829223633,
+    "sequence": "hpatches:i_dc",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 947,
+    "precision": 0.9598732840549102,
+    "time": 0.11373424530029297,
+    "sequence": "hpatches:i_dc",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1594,
+    "precision": 0.9899623588456713,
+    "time": 0.11932921409606934,
+    "sequence": "hpatches:i_dome",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 856,
+    "precision": 0.9404205607476636,
+    "time": 0.13010001182556152,
+    "sequence": "hpatches:i_dome",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 858,
+    "precision": 0.914918414918415,
+    "time": 0.1309347152709961,
+    "sequence": "hpatches:i_dome",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 890,
+    "precision": 0.9280898876404494,
+    "time": 0.13125967979431152,
+    "sequence": "hpatches:i_dome",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1130,
+    "precision": 0.9707964601769912,
+    "time": 0.12132954597473145,
+    "sequence": "hpatches:i_dome",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 868,
+    "precision": 0.9953917050691244,
+    "time": 0.10281777381896973,
+    "sequence": "hpatches:i_duda",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 839,
+    "precision": 0.9940405244338498,
+    "time": 0.09798765182495117,
+    "sequence": "hpatches:i_duda",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 796,
+    "precision": 0.9962311557788944,
+    "time": 0.10213065147399902,
+    "sequence": "hpatches:i_duda",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 758,
+    "precision": 0.9934036939313984,
+    "time": 0.10153460502624512,
+    "sequence": "hpatches:i_duda",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 665,
+    "precision": 0.9969924812030075,
+    "time": 0.10633969306945801,
+    "sequence": "hpatches:i_duda",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 891,
+    "precision": 0.9674523007856342,
+    "time": 0.098358154296875,
+    "sequence": "hpatches:i_fenis",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 729,
+    "precision": 0.9711934156378601,
+    "time": 0.10317420959472656,
+    "sequence": "hpatches:i_fenis",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 575,
+    "precision": 0.9565217391304348,
+    "time": 0.11236929893493652,
+    "sequence": "hpatches:i_fenis",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 531,
+    "precision": 0.9171374764595104,
+    "time": 0.11196374893188477,
+    "sequence": "hpatches:i_fenis",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 487,
+    "precision": 0.9548254620123203,
+    "time": 0.10913705825805664,
+    "sequence": "hpatches:i_fenis",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 578,
+    "precision": 0.9775086505190311,
+    "time": 0.10230255126953125,
+    "sequence": "hpatches:i_fog",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 501,
+    "precision": 0.9640718562874252,
+    "time": 0.09775209426879883,
+    "sequence": "hpatches:i_fog",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 380,
+    "precision": 0.9578947368421052,
+    "time": 0.09762883186340332,
+    "sequence": "hpatches:i_fog",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 427,
+    "precision": 0.9508196721311475,
+    "time": 0.10425448417663574,
+    "sequence": "hpatches:i_fog",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 371,
+    "precision": 0.9326145552560647,
+    "time": 0.11172819137573242,
+    "sequence": "hpatches:i_fog",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1172,
+    "precision": 0.9274744027303754,
+    "time": 0.1446218490600586,
+    "sequence": "hpatches:i_fruits",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1073,
+    "precision": 0.9655172413793104,
+    "time": 0.14860153198242188,
+    "sequence": "hpatches:i_fruits",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1068,
+    "precision": 0.9672284644194756,
+    "time": 0.15137481689453125,
+    "sequence": "hpatches:i_fruits",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1071,
+    "precision": 0.9673202614379085,
+    "time": 0.1497786045074463,
+    "sequence": "hpatches:i_fruits",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1088,
+    "precision": 0.9512867647058824,
+    "time": 0.14945602416992188,
+    "sequence": "hpatches:i_fruits",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 737,
+    "precision": 0.9905020352781547,
+    "time": 0.09145545959472656,
+    "sequence": "hpatches:i_gonnenberg",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 734,
+    "precision": 0.9727520435967303,
+    "time": 0.09003806114196777,
+    "sequence": "hpatches:i_gonnenberg",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 675,
+    "precision": 0.9703703703703703,
+    "time": 0.0908348560333252,
+    "sequence": "hpatches:i_gonnenberg",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 690,
+    "precision": 0.9840579710144928,
+    "time": 0.08970975875854492,
+    "sequence": "hpatches:i_gonnenberg",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 710,
+    "precision": 0.9732394366197183,
+    "time": 0.08947539329528809,
+    "sequence": "hpatches:i_gonnenberg",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1252,
+    "precision": 0.9760383386581469,
+    "time": 0.12621235847473145,
+    "sequence": "hpatches:i_greenhouse",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1224,
+    "precision": 0.9697712418300654,
+    "time": 0.1260831356048584,
+    "sequence": "hpatches:i_greenhouse",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1179,
+    "precision": 0.9618320610687023,
+    "time": 0.1257917881011963,
+    "sequence": "hpatches:i_greenhouse",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1132,
+    "precision": 0.9567137809187279,
+    "time": 0.12479877471923828,
+    "sequence": "hpatches:i_greenhouse",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1091,
+    "precision": 0.9395050412465628,
+    "time": 0.12426352500915527,
+    "sequence": "hpatches:i_greenhouse",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1023,
+    "precision": 0.9824046920821115,
+    "time": 0.12149214744567871,
+    "sequence": "hpatches:i_greentea",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1266,
+    "precision": 0.990521327014218,
+    "time": 0.12387990951538086,
+    "sequence": "hpatches:i_greentea",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1301,
+    "precision": 0.9830899308224442,
+    "time": 0.11779165267944336,
+    "sequence": "hpatches:i_greentea",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1291,
+    "precision": 0.9891556932610379,
+    "time": 0.12377524375915527,
+    "sequence": "hpatches:i_greentea",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1215,
+    "precision": 0.9843621399176955,
+    "time": 0.12486815452575684,
+    "sequence": "hpatches:i_greentea",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1128,
+    "precision": 0.9769503546099291,
+    "time": 0.10014963150024414,
+    "sequence": "hpatches:i_indiana",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1048,
+    "precision": 0.9685114503816794,
+    "time": 0.10030651092529297,
+    "sequence": "hpatches:i_indiana",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1018,
+    "precision": 0.9567779960707269,
+    "time": 0.10253596305847168,
+    "sequence": "hpatches:i_indiana",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1038,
+    "precision": 0.9527938342967245,
+    "time": 0.10148310661315918,
+    "sequence": "hpatches:i_indiana",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 991,
+    "precision": 0.9858728557013118,
+    "time": 0.11561322212219238,
+    "sequence": "hpatches:i_indiana",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 772,
+    "precision": 0.8691709844559585,
+    "time": 0.11037373542785645,
+    "sequence": "hpatches:i_kions",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 718,
+    "precision": 0.9540389972144847,
+    "time": 0.12203621864318848,
+    "sequence": "hpatches:i_kions",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 611,
+    "precision": 0.9345335515548282,
+    "time": 0.11753439903259277,
+    "sequence": "hpatches:i_kions",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 608,
+    "precision": 0.8865131578947368,
+    "time": 0.11478638648986816,
+    "sequence": "hpatches:i_kions",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 703,
+    "precision": 0.972972972972973,
+    "time": 0.12356328964233398,
+    "sequence": "hpatches:i_kions",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1229,
+    "precision": 0.9698942229454841,
+    "time": 0.12197375297546387,
+    "sequence": "hpatches:i_ktirio",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 874,
+    "precision": 0.9782608695652174,
+    "time": 0.13755321502685547,
+    "sequence": "hpatches:i_ktirio",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 813,
+    "precision": 0.9175891758917589,
+    "time": 0.14039921760559082,
+    "sequence": "hpatches:i_ktirio",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 918,
+    "precision": 0.985838779956427,
+    "time": 0.13979291915893555,
+    "sequence": "hpatches:i_ktirio",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 811,
+    "precision": 0.9408138101109741,
+    "time": 0.1417832374572754,
+    "sequence": "hpatches:i_ktirio",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1114,
+    "precision": 0.9793536804308797,
+    "time": 0.10481715202331543,
+    "sequence": "hpatches:i_kurhaus",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1002,
+    "precision": 0.9620758483033932,
+    "time": 0.10239553451538086,
+    "sequence": "hpatches:i_kurhaus",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 939,
+    "precision": 0.9861554845580405,
+    "time": 0.10900163650512695,
+    "sequence": "hpatches:i_kurhaus",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 902,
+    "precision": 0.9767184035476718,
+    "time": 0.10853171348571777,
+    "sequence": "hpatches:i_kurhaus",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 842,
+    "precision": 0.9655581947743468,
+    "time": 0.1142570972442627,
+    "sequence": "hpatches:i_kurhaus",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1176,
+    "precision": 0.9846938775510204,
+    "time": 0.10472536087036133,
+    "sequence": "hpatches:i_leuven",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1154,
+    "precision": 0.9662045060658578,
+    "time": 0.10729455947875977,
+    "sequence": "hpatches:i_leuven",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1093,
+    "precision": 0.9579139981701739,
+    "time": 0.10774707794189453,
+    "sequence": "hpatches:i_leuven",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1028,
+    "precision": 0.9669260700389105,
+    "time": 0.10624313354492188,
+    "sequence": "hpatches:i_leuven",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 902,
+    "precision": 0.6796008869179601,
+    "time": 0.10921430587768555,
+    "sequence": "hpatches:i_leuven",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1090,
+    "precision": 0.9412844036697248,
+    "time": 0.1429436206817627,
+    "sequence": "hpatches:i_lionday",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1002,
+    "precision": 0.9441117764471058,
+    "time": 0.14173197746276855,
+    "sequence": "hpatches:i_lionday",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 837,
+    "precision": 0.7765830346475507,
+    "time": 0.14309144020080566,
+    "sequence": "hpatches:i_lionday",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 922,
+    "precision": 0.8600867678958786,
+    "time": 0.14239120483398438,
+    "sequence": "hpatches:i_lionday",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1032,
+    "precision": 0.9098837209302325,
+    "time": 0.14212441444396973,
+    "sequence": "hpatches:i_lionday",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1082,
+    "precision": 0.9353049907578558,
+    "time": 0.1402149200439453,
+    "sequence": "hpatches:i_lionnight",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 927,
+    "precision": 0.8845738942826321,
+    "time": 0.1393420696258545,
+    "sequence": "hpatches:i_lionnight",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1149,
+    "precision": 0.9495213228894691,
+    "time": 0.14211559295654297,
+    "sequence": "hpatches:i_lionnight",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1139,
+    "precision": 0.9561018437225637,
+    "time": 0.1411423683166504,
+    "sequence": "hpatches:i_lionnight",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1183,
+    "precision": 0.9492814877430262,
+    "time": 0.14119505882263184,
+    "sequence": "hpatches:i_lionnight",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1322,
+    "precision": 0.9636913767019667,
+    "time": 0.10787105560302734,
+    "sequence": "hpatches:i_londonbridge",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1291,
+    "precision": 0.9666924864446166,
+    "time": 0.10664081573486328,
+    "sequence": "hpatches:i_londonbridge",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1169,
+    "precision": 0.7835757057313943,
+    "time": 0.11283421516418457,
+    "sequence": "hpatches:i_londonbridge",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 943,
+    "precision": 0.48886532343584305,
+    "time": 0.1239631175994873,
+    "sequence": "hpatches:i_londonbridge",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1147,
+    "precision": 0.970357454228422,
+    "time": 0.11417889595031738,
+    "sequence": "hpatches:i_londonbridge",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 731,
+    "precision": 0.9794801641586868,
+    "time": 0.11428141593933105,
+    "sequence": "hpatches:i_melon",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 613,
+    "precision": 0.9575856443719413,
+    "time": 0.11830615997314453,
+    "sequence": "hpatches:i_melon",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 424,
+    "precision": 0.9504716981132075,
+    "time": 0.12123990058898926,
+    "sequence": "hpatches:i_melon",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 585,
+    "precision": 0.9811965811965812,
+    "time": 0.11839580535888672,
+    "sequence": "hpatches:i_melon",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 541,
+    "precision": 0.9759704251386322,
+    "time": 0.12205243110656738,
+    "sequence": "hpatches:i_melon",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1527,
+    "precision": 0.9633267845448592,
+    "time": 0.11508798599243164,
+    "sequence": "hpatches:i_miniature",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1264,
+    "precision": 0.9810126582278481,
+    "time": 0.12736058235168457,
+    "sequence": "hpatches:i_miniature",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1060,
+    "precision": 0.9660377358490566,
+    "time": 0.13286876678466797,
+    "sequence": "hpatches:i_miniature",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 792,
+    "precision": 0.9684343434343434,
+    "time": 0.13669490814208984,
+    "sequence": "hpatches:i_miniature",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1221,
+    "precision": 0.9737919737919738,
+    "time": 0.126755952835083,
+    "sequence": "hpatches:i_miniature",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1036,
+    "precision": 0.9681467181467182,
+    "time": 0.1230013370513916,
+    "sequence": "hpatches:i_nescafe",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1159,
+    "precision": 0.9680759275237274,
+    "time": 0.12548255920410156,
+    "sequence": "hpatches:i_nescafe",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1197,
+    "precision": 0.9791144527986633,
+    "time": 0.12513136863708496,
+    "sequence": "hpatches:i_nescafe",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1111,
+    "precision": 0.981998199819982,
+    "time": 0.12411355972290039,
+    "sequence": "hpatches:i_nescafe",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1062,
+    "precision": 0.9585687382297552,
+    "time": 0.12658238410949707,
+    "sequence": "hpatches:i_nescafe",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1453,
+    "precision": 0.9504473503097041,
+    "time": 0.12594223022460938,
+    "sequence": "hpatches:i_nijmegen",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1551,
+    "precision": 0.9522888459058672,
+    "time": 0.12000083923339844,
+    "sequence": "hpatches:i_nijmegen",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1072,
+    "precision": 0.9748134328358209,
+    "time": 0.1343705654144287,
+    "sequence": "hpatches:i_nijmegen",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1523,
+    "precision": 0.9632304661851608,
+    "time": 0.1199178695678711,
+    "sequence": "hpatches:i_nijmegen",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1490,
+    "precision": 0.9550335570469799,
+    "time": 0.12002420425415039,
+    "sequence": "hpatches:i_nijmegen",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 788,
+    "precision": 0.9010152284263959,
+    "time": 0.17003417015075684,
+    "sequence": "hpatches:i_nuts",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 655,
+    "precision": 0.9267175572519084,
+    "time": 0.17387819290161133,
+    "sequence": "hpatches:i_nuts",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 555,
+    "precision": 0.9369369369369369,
+    "time": 0.1721963882446289,
+    "sequence": "hpatches:i_nuts",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 563,
+    "precision": 0.9147424511545293,
+    "time": 0.17431330680847168,
+    "sequence": "hpatches:i_nuts",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 606,
+    "precision": 0.8498349834983498,
+    "time": 0.17435956001281738,
+    "sequence": "hpatches:i_nuts",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1279,
+    "precision": 0.9609069585613761,
+    "time": 0.11948990821838379,
+    "sequence": "hpatches:i_objects",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1254,
+    "precision": 0.9282296650717703,
+    "time": 0.11963772773742676,
+    "sequence": "hpatches:i_objects",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1139,
+    "precision": 0.9508340649692713,
+    "time": 0.13078761100769043,
+    "sequence": "hpatches:i_objects",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1114,
+    "precision": 0.9649910233393177,
+    "time": 0.1330718994140625,
+    "sequence": "hpatches:i_objects",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1587,
+    "precision": 0.9666036546943919,
+    "time": 0.11465740203857422,
+    "sequence": "hpatches:i_objects",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1193,
+    "precision": 0.9958088851634534,
+    "time": 0.12855148315429688,
+    "sequence": "hpatches:i_parking",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1042,
+    "precision": 0.9539347408829175,
+    "time": 0.12441372871398926,
+    "sequence": "hpatches:i_parking",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1013,
+    "precision": 0.9387956564659428,
+    "time": 0.1346123218536377,
+    "sequence": "hpatches:i_parking",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 970,
+    "precision": 0.9443298969072165,
+    "time": 0.1348252296447754,
+    "sequence": "hpatches:i_parking",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1005,
+    "precision": 0.9741293532338309,
+    "time": 0.13477087020874023,
+    "sequence": "hpatches:i_parking",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 579,
+    "precision": 0.9930915371329879,
+    "time": 0.09571957588195801,
+    "sequence": "hpatches:i_partyfood",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 525,
+    "precision": 0.9980952380952381,
+    "time": 0.09573960304260254,
+    "sequence": "hpatches:i_partyfood",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 503,
+    "precision": 0.9980119284294234,
+    "time": 0.1008615493774414,
+    "sequence": "hpatches:i_partyfood",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 487,
+    "precision": 0.9938398357289527,
+    "time": 0.09932780265808105,
+    "sequence": "hpatches:i_partyfood",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 450,
+    "precision": 0.9933333333333333,
+    "time": 0.0992739200592041,
+    "sequence": "hpatches:i_partyfood",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 761,
+    "precision": 0.8528252299605782,
+    "time": 0.11636042594909668,
+    "sequence": "hpatches:i_pencils",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 645,
+    "precision": 0.17519379844961241,
+    "time": 0.11682701110839844,
+    "sequence": "hpatches:i_pencils",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 758,
+    "precision": 0.12005277044854881,
+    "time": 0.11539220809936523,
+    "sequence": "hpatches:i_pencils",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 706,
+    "precision": 0.8470254957507082,
+    "time": 0.11919808387756348,
+    "sequence": "hpatches:i_pencils",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 700,
+    "precision": 0.8728571428571429,
+    "time": 0.11771774291992188,
+    "sequence": "hpatches:i_pencils",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 819,
+    "precision": 0.967032967032967,
+    "time": 0.11368179321289062,
+    "sequence": "hpatches:i_pinard",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 677,
+    "precision": 0.982274741506647,
+    "time": 0.12219929695129395,
+    "sequence": "hpatches:i_pinard",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 677,
+    "precision": 0.9748892171344166,
+    "time": 0.12202286720275879,
+    "sequence": "hpatches:i_pinard",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 661,
+    "precision": 0.9773071104387292,
+    "time": 0.12210536003112793,
+    "sequence": "hpatches:i_pinard",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 682,
+    "precision": 0.9882697947214076,
+    "time": 0.12115907669067383,
+    "sequence": "hpatches:i_pinard",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 651,
+    "precision": 0.9370199692780338,
+    "time": 0.12911581993103027,
+    "sequence": "hpatches:i_pool",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 570,
+    "precision": 0.8017543859649123,
+    "time": 0.1286170482635498,
+    "sequence": "hpatches:i_pool",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 532,
+    "precision": 0.7781954887218046,
+    "time": 0.12860727310180664,
+    "sequence": "hpatches:i_pool",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 591,
+    "precision": 0.9001692047377327,
+    "time": 0.12761163711547852,
+    "sequence": "hpatches:i_pool",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 598,
+    "precision": 0.8979933110367893,
+    "time": 0.12861084938049316,
+    "sequence": "hpatches:i_pool",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 440,
+    "precision": 0.9590909090909091,
+    "time": 0.10907888412475586,
+    "sequence": "hpatches:i_porta",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 437,
+    "precision": 0.965675057208238,
+    "time": 0.10860872268676758,
+    "sequence": "hpatches:i_porta",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 391,
+    "precision": 0.9667519181585678,
+    "time": 0.11239767074584961,
+    "sequence": "hpatches:i_porta",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 409,
+    "precision": 0.9364303178484108,
+    "time": 0.11381220817565918,
+    "sequence": "hpatches:i_porta",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 361,
+    "precision": 0.9058171745152355,
+    "time": 0.1216726303100586,
+    "sequence": "hpatches:i_porta",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1002,
+    "precision": 0.9930139720558883,
+    "time": 0.11901283264160156,
+    "sequence": "hpatches:i_resort",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1259,
+    "precision": 0.9952343129467831,
+    "time": 0.11244511604309082,
+    "sequence": "hpatches:i_resort",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1228,
+    "precision": 0.995928338762215,
+    "time": 0.11223793029785156,
+    "sequence": "hpatches:i_resort",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 986,
+    "precision": 0.9847870182555781,
+    "time": 0.11747527122497559,
+    "sequence": "hpatches:i_resort",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1061,
+    "precision": 0.9688972667295005,
+    "time": 0.11397075653076172,
+    "sequence": "hpatches:i_resort",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1651,
+    "precision": 0.9448818897637795,
+    "time": 0.11902332305908203,
+    "sequence": "hpatches:i_salon",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1360,
+    "precision": 0.9419117647058823,
+    "time": 0.12653851509094238,
+    "sequence": "hpatches:i_salon",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1154,
+    "precision": 0.9558058925476604,
+    "time": 0.1316368579864502,
+    "sequence": "hpatches:i_salon",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1449,
+    "precision": 0.9620427881297446,
+    "time": 0.12856078147888184,
+    "sequence": "hpatches:i_salon",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1236,
+    "precision": 0.9538834951456311,
+    "time": 0.13124537467956543,
+    "sequence": "hpatches:i_salon",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1252,
+    "precision": 0.8610223642172524,
+    "time": 0.1180720329284668,
+    "sequence": "hpatches:i_santuario",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1280,
+    "precision": 0.82890625,
+    "time": 0.11721062660217285,
+    "sequence": "hpatches:i_santuario",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1146,
+    "precision": 0.7321116928446771,
+    "time": 0.12362957000732422,
+    "sequence": "hpatches:i_santuario",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1257,
+    "precision": 0.9530628480509149,
+    "time": 0.12378191947937012,
+    "sequence": "hpatches:i_santuario",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1107,
+    "precision": 0.907859078590786,
+    "time": 0.12237262725830078,
+    "sequence": "hpatches:i_santuario",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 740,
+    "precision": 0.972972972972973,
+    "time": 0.12668943405151367,
+    "sequence": "hpatches:i_school",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 745,
+    "precision": 0.9691275167785235,
+    "time": 0.12665867805480957,
+    "sequence": "hpatches:i_school",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 646,
+    "precision": 0.9071207430340558,
+    "time": 0.1272735595703125,
+    "sequence": "hpatches:i_school",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 703,
+    "precision": 0.9345661450924608,
+    "time": 0.12686562538146973,
+    "sequence": "hpatches:i_school",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 591,
+    "precision": 0.8274111675126904,
+    "time": 0.13162899017333984,
+    "sequence": "hpatches:i_school",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1008,
+    "precision": 0.9791666666666666,
+    "time": 0.11612296104431152,
+    "sequence": "hpatches:i_ski",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 928,
+    "precision": 0.96875,
+    "time": 0.1173100471496582,
+    "sequence": "hpatches:i_ski",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 890,
+    "precision": 0.9280898876404494,
+    "time": 0.11684393882751465,
+    "sequence": "hpatches:i_ski",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 840,
+    "precision": 0.969047619047619,
+    "time": 0.12163186073303223,
+    "sequence": "hpatches:i_ski",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 782,
+    "precision": 0.9475703324808185,
+    "time": 0.12229657173156738,
+    "sequence": "hpatches:i_ski",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 957,
+    "precision": 0.9571577847439916,
+    "time": 0.12171506881713867,
+    "sequence": "hpatches:i_smurf",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 972,
+    "precision": 0.9547325102880658,
+    "time": 0.12623262405395508,
+    "sequence": "hpatches:i_smurf",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 918,
+    "precision": 0.9281045751633987,
+    "time": 0.12114810943603516,
+    "sequence": "hpatches:i_smurf",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 893,
+    "precision": 0.9428891377379619,
+    "time": 0.12664246559143066,
+    "sequence": "hpatches:i_smurf",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 819,
+    "precision": 0.9633699633699634,
+    "time": 0.13171815872192383,
+    "sequence": "hpatches:i_smurf",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1393,
+    "precision": 0.9806173725771715,
+    "time": 0.10972094535827637,
+    "sequence": "hpatches:i_steps",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1395,
+    "precision": 0.9756272401433692,
+    "time": 0.11079668998718262,
+    "sequence": "hpatches:i_steps",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1407,
+    "precision": 0.9850746268656716,
+    "time": 0.10899043083190918,
+    "sequence": "hpatches:i_steps",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1154,
+    "precision": 0.9809358752166378,
+    "time": 0.1178579330444336,
+    "sequence": "hpatches:i_steps",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1336,
+    "precision": 0.9700598802395209,
+    "time": 0.11037826538085938,
+    "sequence": "hpatches:i_steps",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1279,
+    "precision": 0.9609069585613761,
+    "time": 0.11949825286865234,
+    "sequence": "hpatches:i_table",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1254,
+    "precision": 0.9282296650717703,
+    "time": 0.11956644058227539,
+    "sequence": "hpatches:i_table",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1139,
+    "precision": 0.9508340649692713,
+    "time": 0.13143062591552734,
+    "sequence": "hpatches:i_table",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1114,
+    "precision": 0.9649910233393177,
+    "time": 0.13224387168884277,
+    "sequence": "hpatches:i_table",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1587,
+    "precision": 0.9666036546943919,
+    "time": 0.11523032188415527,
+    "sequence": "hpatches:i_table",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 481,
+    "precision": 0.762993762993763,
+    "time": 0.11401915550231934,
+    "sequence": "hpatches:i_tools",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 618,
+    "precision": 0.8964401294498382,
+    "time": 0.1180729866027832,
+    "sequence": "hpatches:i_tools",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 491,
+    "precision": 0.6802443991853361,
+    "time": 0.11266398429870605,
+    "sequence": "hpatches:i_tools",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 659,
+    "precision": 0.874051593323217,
+    "time": 0.11164546012878418,
+    "sequence": "hpatches:i_tools",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 531,
+    "precision": 0.2937853107344633,
+    "time": 0.11148190498352051,
+    "sequence": "hpatches:i_tools",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 720,
+    "precision": 0.8861111111111111,
+    "time": 0.1449291706085205,
+    "sequence": "hpatches:i_toy",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 588,
+    "precision": 0.9166666666666666,
+    "time": 0.15478968620300293,
+    "sequence": "hpatches:i_toy",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 535,
+    "precision": 0.8953271028037383,
+    "time": 0.1561279296875,
+    "sequence": "hpatches:i_toy",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 444,
+    "precision": 0.8806306306306306,
+    "time": 0.1611645221710205,
+    "sequence": "hpatches:i_toy",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 388,
+    "precision": 0.7216494845360825,
+    "time": 0.1616959571838379,
+    "sequence": "hpatches:i_toy",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 519,
+    "precision": 0.9036608863198459,
+    "time": 0.1214296817779541,
+    "sequence": "hpatches:i_troulos",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 558,
+    "precision": 0.3100358422939068,
+    "time": 0.12743353843688965,
+    "sequence": "hpatches:i_troulos",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 579,
+    "precision": 0.9412780656303973,
+    "time": 0.12175536155700684,
+    "sequence": "hpatches:i_troulos",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 540,
+    "precision": 0.8351851851851851,
+    "time": 0.12818622589111328,
+    "sequence": "hpatches:i_troulos",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 578,
+    "precision": 0.8062283737024222,
+    "time": 0.12660646438598633,
+    "sequence": "hpatches:i_troulos",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1089,
+    "precision": 0.9494949494949495,
+    "time": 0.11678409576416016,
+    "sequence": "hpatches:i_veggies",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 827,
+    "precision": 0.9407496977025392,
+    "time": 0.12074828147888184,
+    "sequence": "hpatches:i_veggies",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 874,
+    "precision": 0.9691075514874142,
+    "time": 0.12247443199157715,
+    "sequence": "hpatches:i_veggies",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 662,
+    "precision": 0.9773413897280967,
+    "time": 0.13093185424804688,
+    "sequence": "hpatches:i_veggies",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 633,
+    "precision": 0.9715639810426541,
+    "time": 0.12962865829467773,
+    "sequence": "hpatches:i_veggies",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 826,
+    "precision": 0.986682808716707,
+    "time": 0.13934540748596191,
+    "sequence": "hpatches:i_village",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 898,
+    "precision": 0.9788418708240535,
+    "time": 0.14070487022399902,
+    "sequence": "hpatches:i_village",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 890,
+    "precision": 0.9831460674157303,
+    "time": 0.1411447525024414,
+    "sequence": "hpatches:i_village",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1176,
+    "precision": 0.983843537414966,
+    "time": 0.13333940505981445,
+    "sequence": "hpatches:i_village",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 869,
+    "precision": 0.9493670886075949,
+    "time": 0.14094901084899902,
+    "sequence": "hpatches:i_village",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1698,
+    "precision": 0.9846878680800942,
+    "time": 0.11554670333862305,
+    "sequence": "hpatches:i_whitebuilding",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1582,
+    "precision": 0.9810366624525917,
+    "time": 0.11528825759887695,
+    "sequence": "hpatches:i_whitebuilding",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1387,
+    "precision": 0.9942321557317952,
+    "time": 0.12675023078918457,
+    "sequence": "hpatches:i_whitebuilding",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1413,
+    "precision": 0.9759377211606511,
+    "time": 0.12221050262451172,
+    "sequence": "hpatches:i_whitebuilding",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1425,
+    "precision": 0.9740350877192983,
+    "time": 0.12259244918823242,
+    "sequence": "hpatches:i_whitebuilding",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1547,
+    "precision": 0.9767291531997414,
+    "time": 0.11496567726135254,
+    "sequence": "hpatches:i_yellowtent",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1324,
+    "precision": 0.947129909365559,
+    "time": 0.12552762031555176,
+    "sequence": "hpatches:i_yellowtent",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1105,
+    "precision": 0.9466063348416289,
+    "time": 0.12530970573425293,
+    "sequence": "hpatches:i_yellowtent",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1217,
+    "precision": 0.961380443714051,
+    "time": 0.1265559196472168,
+    "sequence": "hpatches:i_yellowtent",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1120,
+    "precision": 0.9598214285714286,
+    "time": 0.13219213485717773,
+    "sequence": "hpatches:i_yellowtent",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 716,
+    "precision": 0.973463687150838,
+    "time": 0.10559320449829102,
+    "sequence": "hpatches:i_zion",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 514,
+    "precision": 0.933852140077821,
+    "time": 0.10808801651000977,
+    "sequence": "hpatches:i_zion",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 437,
+    "precision": 0.9221967963386728,
+    "time": 0.11121582984924316,
+    "sequence": "hpatches:i_zion",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 363,
+    "precision": 0.9118457300275482,
+    "time": 0.11450934410095215,
+    "sequence": "hpatches:i_zion",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 356,
+    "precision": 0.901685393258427,
+    "time": 0.11432981491088867,
+    "sequence": "hpatches:i_zion",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1454,
+    "precision": 0.9869325997248969,
+    "time": 0.12368917465209961,
+    "sequence": "hpatches:v_abstract",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1372,
+    "precision": 0.9774052478134111,
+    "time": 0.12349796295166016,
+    "sequence": "hpatches:v_abstract",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 932,
+    "precision": 0.9495708154506438,
+    "time": 0.12636065483093262,
+    "sequence": "hpatches:v_abstract",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1186,
+    "precision": 0.9730185497470489,
+    "time": 0.12120461463928223,
+    "sequence": "hpatches:v_abstract",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 873,
+    "precision": 0.9175257731958762,
+    "time": 0.126173734664917,
+    "sequence": "hpatches:v_abstract",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 718,
+    "precision": 0.9958217270194986,
+    "time": 0.1131439208984375,
+    "sequence": "hpatches:v_adam",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 652,
+    "precision": 0.9877300613496932,
+    "time": 0.1127481460571289,
+    "sequence": "hpatches:v_adam",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 415,
+    "precision": 0.9783132530120482,
+    "time": 0.11846470832824707,
+    "sequence": "hpatches:v_adam",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 546,
+    "precision": 0.9926739926739927,
+    "time": 0.11676764488220215,
+    "sequence": "hpatches:v_adam",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 567,
+    "precision": 0.9488536155202821,
+    "time": 0.11335182189941406,
+    "sequence": "hpatches:v_adam",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1714,
+    "precision": 0.9877479579929989,
+    "time": 0.12265825271606445,
+    "sequence": "hpatches:v_apprentices",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1477,
+    "precision": 0.977657413676371,
+    "time": 0.11715030670166016,
+    "sequence": "hpatches:v_apprentices",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1238,
+    "precision": 0.9676898222940227,
+    "time": 0.12214827537536621,
+    "sequence": "hpatches:v_apprentices",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1043,
+    "precision": 0.9837008628954937,
+    "time": 0.1305406093597412,
+    "sequence": "hpatches:v_apprentices",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 956,
+    "precision": 0.9884937238493724,
+    "time": 0.1351785659790039,
+    "sequence": "hpatches:v_apprentices",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 875,
+    "precision": 0.0,
+    "time": 0.11116361618041992,
+    "sequence": "hpatches:v_artisans",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 787,
+    "precision": 0.0,
+    "time": 0.09899568557739258,
+    "sequence": "hpatches:v_artisans",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 898,
+    "precision": 0.0,
+    "time": 0.09364485740661621,
+    "sequence": "hpatches:v_artisans",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 437,
+    "precision": 0.0,
+    "time": 0.10259532928466797,
+    "sequence": "hpatches:v_artisans",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 880,
+    "precision": 0.0,
+    "time": 0.08421039581298828,
+    "sequence": "hpatches:v_artisans",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 878,
+    "precision": 0.9328018223234624,
+    "time": 0.10165905952453613,
+    "sequence": "hpatches:v_astronautis",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 650,
+    "precision": 0.8876923076923077,
+    "time": 0.11476612091064453,
+    "sequence": "hpatches:v_astronautis",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 770,
+    "precision": 0.9493506493506494,
+    "time": 0.10901308059692383,
+    "sequence": "hpatches:v_astronautis",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 602,
+    "precision": 0.9186046511627907,
+    "time": 0.10857391357421875,
+    "sequence": "hpatches:v_astronautis",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 871,
+    "precision": 0.9506314580941446,
+    "time": 0.09653878211975098,
+    "sequence": "hpatches:v_astronautis",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1385,
+    "precision": 0.911913357400722,
+    "time": 0.11666440963745117,
+    "sequence": "hpatches:v_azzola",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1188,
+    "precision": 0.7861952861952862,
+    "time": 0.1218559741973877,
+    "sequence": "hpatches:v_azzola",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1384,
+    "precision": 0.9624277456647399,
+    "time": 0.11300301551818848,
+    "sequence": "hpatches:v_azzola",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 979,
+    "precision": 0.7987742594484167,
+    "time": 0.12649130821228027,
+    "sequence": "hpatches:v_azzola",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 676,
+    "precision": 0.7559171597633136,
+    "time": 0.13242650032043457,
+    "sequence": "hpatches:v_azzola",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 540,
+    "precision": 0.9203703703703704,
+    "time": 0.10062289237976074,
+    "sequence": "hpatches:v_bark",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 7,
+    "precision": 0.0,
+    "time": 0.0961599349975586,
+    "sequence": "hpatches:v_bark",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 12,
+    "precision": 0.0,
+    "time": 0.10217452049255371,
+    "sequence": "hpatches:v_bark",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 168,
+    "precision": 0.9523809523809523,
+    "time": 0.11827778816223145,
+    "sequence": "hpatches:v_bark",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 15,
+    "precision": 0.0,
+    "time": 0.10151886940002441,
+    "sequence": "hpatches:v_bark",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1504,
+    "precision": 0.9627659574468085,
+    "time": 0.11252236366271973,
+    "sequence": "hpatches:v_bees",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1598,
+    "precision": 0.9718397997496871,
+    "time": 0.11293482780456543,
+    "sequence": "hpatches:v_bees",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1441,
+    "precision": 0.9694656488549618,
+    "time": 0.11782550811767578,
+    "sequence": "hpatches:v_bees",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 982,
+    "precision": 0.9490835030549898,
+    "time": 0.12490487098693848,
+    "sequence": "hpatches:v_bees",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1222,
+    "precision": 0.9312602291325696,
+    "time": 0.1284627914428711,
+    "sequence": "hpatches:v_bees",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 458,
+    "precision": 0.9868995633187773,
+    "time": 0.12353014945983887,
+    "sequence": "hpatches:v_beyus",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 444,
+    "precision": 0.8851351351351351,
+    "time": 0.1238396167755127,
+    "sequence": "hpatches:v_beyus",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 582,
+    "precision": 0.979381443298969,
+    "time": 0.1168060302734375,
+    "sequence": "hpatches:v_beyus",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 382,
+    "precision": 0.9633507853403142,
+    "time": 0.12296605110168457,
+    "sequence": "hpatches:v_beyus",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 490,
+    "precision": 0.9836734693877551,
+    "time": 0.1231391429901123,
+    "sequence": "hpatches:v_beyus",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 957,
+    "precision": 0.9926854754440961,
+    "time": 0.12727785110473633,
+    "sequence": "hpatches:v_bip",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 883,
+    "precision": 0.9898074745186863,
+    "time": 0.1254587173461914,
+    "sequence": "hpatches:v_bip",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 886,
+    "precision": 0.9920993227990971,
+    "time": 0.12505102157592773,
+    "sequence": "hpatches:v_bip",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 487,
+    "precision": 0.9650924024640657,
+    "time": 0.14804434776306152,
+    "sequence": "hpatches:v_bip",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 0,
+    "precision": 0.0,
+    "time": 0.13046479225158691,
+    "sequence": "hpatches:v_bip",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 786,
+    "precision": 0.007633587786259542,
+    "time": 0.13274049758911133,
+    "sequence": "hpatches:v_bird",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 842,
+    "precision": 0.010688836104513063,
+    "time": 0.13145756721496582,
+    "sequence": "hpatches:v_bird",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 864,
+    "precision": 0.0,
+    "time": 0.1313154697418213,
+    "sequence": "hpatches:v_bird",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 826,
+    "precision": 0.0,
+    "time": 0.1344282627105713,
+    "sequence": "hpatches:v_bird",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 531,
+    "precision": 0.0,
+    "time": 0.13808584213256836,
+    "sequence": "hpatches:v_bird",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 362,
+    "precision": 0.016574585635359115,
+    "time": 0.12868785858154297,
+    "sequence": "hpatches:v_birdwoman",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 541,
+    "precision": 0.0073937153419593345,
+    "time": 0.12430191040039062,
+    "sequence": "hpatches:v_birdwoman",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 649,
+    "precision": 0.0,
+    "time": 0.11961841583251953,
+    "sequence": "hpatches:v_birdwoman",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1056,
+    "precision": 0.0,
+    "time": 0.11350512504577637,
+    "sequence": "hpatches:v_birdwoman",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 693,
+    "precision": 0.011544011544011544,
+    "time": 0.11484074592590332,
+    "sequence": "hpatches:v_birdwoman",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1381,
+    "precision": 0.9927588703837799,
+    "time": 0.12367033958435059,
+    "sequence": "hpatches:v_blueprint",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1088,
+    "precision": 0.9604779411764706,
+    "time": 0.11995649337768555,
+    "sequence": "hpatches:v_blueprint",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1337,
+    "precision": 0.9723261032161555,
+    "time": 0.11606097221374512,
+    "sequence": "hpatches:v_blueprint",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 952,
+    "precision": 0.9653361344537815,
+    "time": 0.11773371696472168,
+    "sequence": "hpatches:v_blueprint",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 727,
+    "precision": 0.951856946354883,
+    "time": 0.12536907196044922,
+    "sequence": "hpatches:v_blueprint",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1251,
+    "precision": 0.9768185451638689,
+    "time": 0.13264942169189453,
+    "sequence": "hpatches:v_boat",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 888,
+    "precision": 0.972972972972973,
+    "time": 0.12923288345336914,
+    "sequence": "hpatches:v_boat",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 9,
+    "precision": 0.3333333333333333,
+    "time": 0.11937355995178223,
+    "sequence": "hpatches:v_boat",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 8,
+    "precision": 0.0,
+    "time": 0.12446212768554688,
+    "sequence": "hpatches:v_boat",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 315,
+    "precision": 0.9809523809523809,
+    "time": 0.1343095302581787,
+    "sequence": "hpatches:v_boat",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1312,
+    "precision": 0.0022865853658536584,
+    "time": 0.11437296867370605,
+    "sequence": "hpatches:v_bricks",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1218,
+    "precision": 0.0016420361247947454,
+    "time": 0.1111304759979248,
+    "sequence": "hpatches:v_bricks",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 999,
+    "precision": 0.004004004004004004,
+    "time": 0.11560368537902832,
+    "sequence": "hpatches:v_bricks",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 827,
+    "precision": 0.0024183796856106408,
+    "time": 0.1200108528137207,
+    "sequence": "hpatches:v_bricks",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 610,
+    "precision": 0.00819672131147541,
+    "time": 0.12663054466247559,
+    "sequence": "hpatches:v_bricks",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1316,
+    "precision": 0.9703647416413373,
+    "time": 0.11284875869750977,
+    "sequence": "hpatches:v_busstop",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1112,
+    "precision": 0.9415467625899281,
+    "time": 0.1135261058807373,
+    "sequence": "hpatches:v_busstop",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1134,
+    "precision": 0.95326278659612,
+    "time": 0.11183595657348633,
+    "sequence": "hpatches:v_busstop",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1127,
+    "precision": 0.9680567879325643,
+    "time": 0.1154634952545166,
+    "sequence": "hpatches:v_busstop",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1352,
+    "precision": 0.9822485207100592,
+    "time": 0.11259245872497559,
+    "sequence": "hpatches:v_busstop",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 959,
+    "precision": 0.9833159541188738,
+    "time": 0.12646079063415527,
+    "sequence": "hpatches:v_calder",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1205,
+    "precision": 0.9701244813278008,
+    "time": 0.11915898323059082,
+    "sequence": "hpatches:v_calder",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 688,
+    "precision": 0.9796511627906976,
+    "time": 0.12888526916503906,
+    "sequence": "hpatches:v_calder",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 585,
+    "precision": 0.9794871794871794,
+    "time": 0.12537384033203125,
+    "sequence": "hpatches:v_calder",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 467,
+    "precision": 0.9785867237687366,
+    "time": 0.13164758682250977,
+    "sequence": "hpatches:v_calder",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1580,
+    "precision": 0.0006329113924050633,
+    "time": 0.1005549430847168,
+    "sequence": "hpatches:v_cartooncity",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 889,
+    "precision": 0.0011248593925759281,
+    "time": 0.10979461669921875,
+    "sequence": "hpatches:v_cartooncity",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1395,
+    "precision": 0.0,
+    "time": 0.10078883171081543,
+    "sequence": "hpatches:v_cartooncity",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1060,
+    "precision": 0.0,
+    "time": 0.11499857902526855,
+    "sequence": "hpatches:v_cartooncity",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 834,
+    "precision": 0.0,
+    "time": 0.10950040817260742,
+    "sequence": "hpatches:v_cartooncity",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 603,
+    "precision": 0.9519071310116086,
+    "time": 0.12004685401916504,
+    "sequence": "hpatches:v_charing",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 391,
+    "precision": 0.8746803069053708,
+    "time": 0.12161397933959961,
+    "sequence": "hpatches:v_charing",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 426,
+    "precision": 0.9436619718309859,
+    "time": 0.11707806587219238,
+    "sequence": "hpatches:v_charing",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 397,
+    "precision": 0.8790931989924433,
+    "time": 0.1214749813079834,
+    "sequence": "hpatches:v_charing",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 395,
+    "precision": 0.8987341772151899,
+    "time": 0.12053322792053223,
+    "sequence": "hpatches:v_charing",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 854,
+    "precision": 0.9297423887587822,
+    "time": 0.1131742000579834,
+    "sequence": "hpatches:v_churchill",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 735,
+    "precision": 0.9360544217687075,
+    "time": 0.1248781681060791,
+    "sequence": "hpatches:v_churchill",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 733,
+    "precision": 0.9645293315143247,
+    "time": 0.1280825138092041,
+    "sequence": "hpatches:v_churchill",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1002,
+    "precision": 0.9920159680638723,
+    "time": 0.11893391609191895,
+    "sequence": "hpatches:v_churchill",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 552,
+    "precision": 0.9456521739130435,
+    "time": 0.12685251235961914,
+    "sequence": "hpatches:v_churchill",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 873,
+    "precision": 0.9873997709049256,
+    "time": 0.11291933059692383,
+    "sequence": "hpatches:v_circus",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 754,
+    "precision": 0.9177718832891246,
+    "time": 0.12565922737121582,
+    "sequence": "hpatches:v_circus",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 611,
+    "precision": 0.8183306055646481,
+    "time": 0.12434983253479004,
+    "sequence": "hpatches:v_circus",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 899,
+    "precision": 0.9621802002224694,
+    "time": 0.11892151832580566,
+    "sequence": "hpatches:v_circus",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 730,
+    "precision": 0.9,
+    "time": 0.1265544891357422,
+    "sequence": "hpatches:v_circus",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1090,
+    "precision": 0.9752293577981651,
+    "time": 0.11452174186706543,
+    "sequence": "hpatches:v_coffeehouse",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1121,
+    "precision": 0.9687778768956289,
+    "time": 0.11538028717041016,
+    "sequence": "hpatches:v_coffeehouse",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1067,
+    "precision": 0.9540768509840675,
+    "time": 0.11991262435913086,
+    "sequence": "hpatches:v_coffeehouse",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 934,
+    "precision": 0.9775160599571735,
+    "time": 0.11225414276123047,
+    "sequence": "hpatches:v_coffeehouse",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 800,
+    "precision": 0.96125,
+    "time": 0.12332916259765625,
+    "sequence": "hpatches:v_coffeehouse",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 526,
+    "precision": 0.9866920152091255,
+    "time": 0.10949349403381348,
+    "sequence": "hpatches:v_colors",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 519,
+    "precision": 0.9325626204238922,
+    "time": 0.10970091819763184,
+    "sequence": "hpatches:v_colors",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 331,
+    "precision": 0.918429003021148,
+    "time": 0.1094961166381836,
+    "sequence": "hpatches:v_colors",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 256,
+    "precision": 0.85546875,
+    "time": 0.11240768432617188,
+    "sequence": "hpatches:v_colors",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 136,
+    "precision": 0.8308823529411765,
+    "time": 0.11238956451416016,
+    "sequence": "hpatches:v_colors",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1494,
+    "precision": 0.9805890227576974,
+    "time": 0.12386488914489746,
+    "sequence": "hpatches:v_courses",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1247,
+    "precision": 0.9470729751403368,
+    "time": 0.13329482078552246,
+    "sequence": "hpatches:v_courses",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1291,
+    "precision": 0.9240898528272656,
+    "time": 0.12200570106506348,
+    "sequence": "hpatches:v_courses",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1022,
+    "precision": 0.860078277886497,
+    "time": 0.13717412948608398,
+    "sequence": "hpatches:v_courses",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 897,
+    "precision": 0.8361204013377926,
+    "time": 0.1364583969116211,
+    "sequence": "hpatches:v_courses",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1283,
+    "precision": 0.9719407638347622,
+    "time": 0.10258293151855469,
+    "sequence": "hpatches:v_dirtywall",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1164,
+    "precision": 0.9604810996563574,
+    "time": 0.11075258255004883,
+    "sequence": "hpatches:v_dirtywall",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 961,
+    "precision": 0.9448491155046826,
+    "time": 0.11140584945678711,
+    "sequence": "hpatches:v_dirtywall",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1041,
+    "precision": 0.9510086455331412,
+    "time": 0.10449814796447754,
+    "sequence": "hpatches:v_dirtywall",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 655,
+    "precision": 0.9618320610687023,
+    "time": 0.11586451530456543,
+    "sequence": "hpatches:v_dirtywall",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1088,
+    "precision": 0.9246323529411765,
+    "time": 0.10834240913391113,
+    "sequence": "hpatches:v_dogman",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1209,
+    "precision": 0.9520264681555004,
+    "time": 0.10702943801879883,
+    "sequence": "hpatches:v_dogman",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 661,
+    "precision": 0.8653555219364599,
+    "time": 0.1216132640838623,
+    "sequence": "hpatches:v_dogman",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 886,
+    "precision": 0.927765237020316,
+    "time": 0.12172341346740723,
+    "sequence": "hpatches:v_dogman",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 437,
+    "precision": 0.8009153318077803,
+    "time": 0.12177228927612305,
+    "sequence": "hpatches:v_dogman",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 780,
+    "precision": 0.9807692307692307,
+    "time": 0.11169195175170898,
+    "sequence": "hpatches:v_eastsouth",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 564,
+    "precision": 0.9858156028368794,
+    "time": 0.1192324161529541,
+    "sequence": "hpatches:v_eastsouth",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 18,
+    "precision": 0.0,
+    "time": 0.11079859733581543,
+    "sequence": "hpatches:v_eastsouth",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 297,
+    "precision": 0.9932659932659933,
+    "time": 0.12724089622497559,
+    "sequence": "hpatches:v_eastsouth",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 192,
+    "precision": 0.9947916666666666,
+    "time": 0.12629222869873047,
+    "sequence": "hpatches:v_eastsouth",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1220,
+    "precision": 0.9860655737704918,
+    "time": 0.11618280410766602,
+    "sequence": "hpatches:v_feast",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1363,
+    "precision": 0.9486426999266324,
+    "time": 0.1166372299194336,
+    "sequence": "hpatches:v_feast",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 927,
+    "precision": 0.941747572815534,
+    "time": 0.12447166442871094,
+    "sequence": "hpatches:v_feast",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1213,
+    "precision": 0.9389942291838417,
+    "time": 0.11652374267578125,
+    "sequence": "hpatches:v_feast",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1037,
+    "precision": 0.9286403085824494,
+    "time": 0.12011957168579102,
+    "sequence": "hpatches:v_feast",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1360,
+    "precision": 0.9801470588235294,
+    "time": 0.11342358589172363,
+    "sequence": "hpatches:v_fest",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1059,
+    "precision": 0.9357884796978282,
+    "time": 0.12113571166992188,
+    "sequence": "hpatches:v_fest",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1080,
+    "precision": 0.9666666666666667,
+    "time": 0.1138448715209961,
+    "sequence": "hpatches:v_fest",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1076,
+    "precision": 0.9330855018587361,
+    "time": 0.12079715728759766,
+    "sequence": "hpatches:v_fest",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 875,
+    "precision": 0.92,
+    "time": 0.1267402172088623,
+    "sequence": "hpatches:v_fest",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1231,
+    "precision": 0.9764419171405362,
+    "time": 0.12837648391723633,
+    "sequence": "hpatches:v_gardens",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 738,
+    "precision": 0.9132791327913279,
+    "time": 0.13692116737365723,
+    "sequence": "hpatches:v_gardens",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1444,
+    "precision": 0.9813019390581718,
+    "time": 0.12422633171081543,
+    "sequence": "hpatches:v_gardens",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 873,
+    "precision": 0.9473081328751431,
+    "time": 0.13378238677978516,
+    "sequence": "hpatches:v_gardens",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1364,
+    "precision": 0.9699413489736071,
+    "time": 0.12372255325317383,
+    "sequence": "hpatches:v_gardens",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 990,
+    "precision": 0.9686868686868687,
+    "time": 0.1017909049987793,
+    "sequence": "hpatches:v_grace",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 900,
+    "precision": 0.9933333333333333,
+    "time": 0.1181786060333252,
+    "sequence": "hpatches:v_grace",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 777,
+    "precision": 0.9781209781209781,
+    "time": 0.11715865135192871,
+    "sequence": "hpatches:v_grace",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 609,
+    "precision": 0.9770114942528736,
+    "time": 0.11385107040405273,
+    "sequence": "hpatches:v_grace",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 416,
+    "precision": 0.9014423076923077,
+    "time": 0.11319804191589355,
+    "sequence": "hpatches:v_grace",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1089,
+    "precision": 0.9724517906336089,
+    "time": 0.1336069107055664,
+    "sequence": "hpatches:v_graffiti",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 898,
+    "precision": 0.9253897550111359,
+    "time": 0.1309828758239746,
+    "sequence": "hpatches:v_graffiti",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 781,
+    "precision": 0.8629961587708067,
+    "time": 0.1437373161315918,
+    "sequence": "hpatches:v_graffiti",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 554,
+    "precision": 0.871841155234657,
+    "time": 0.13895559310913086,
+    "sequence": "hpatches:v_graffiti",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 464,
+    "precision": 0.7241379310344828,
+    "time": 0.15096235275268555,
+    "sequence": "hpatches:v_graffiti",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 747,
+    "precision": 0.9879518072289156,
+    "time": 0.12629151344299316,
+    "sequence": "hpatches:v_home",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 702,
+    "precision": 0.9743589743589743,
+    "time": 0.13158917427062988,
+    "sequence": "hpatches:v_home",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 776,
+    "precision": 0.979381443298969,
+    "time": 0.11707830429077148,
+    "sequence": "hpatches:v_home",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 655,
+    "precision": 0.9129770992366413,
+    "time": 0.1318058967590332,
+    "sequence": "hpatches:v_home",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 722,
+    "precision": 0.9916897506925207,
+    "time": 0.12560796737670898,
+    "sequence": "hpatches:v_home",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 965,
+    "precision": 0.9823834196891191,
+    "time": 0.11398100852966309,
+    "sequence": "hpatches:v_laptop",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 681,
+    "precision": 0.9823788546255506,
+    "time": 0.12230801582336426,
+    "sequence": "hpatches:v_laptop",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 584,
+    "precision": 0.9743150684931506,
+    "time": 0.13067245483398438,
+    "sequence": "hpatches:v_laptop",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 14,
+    "precision": 0.0,
+    "time": 0.12463951110839844,
+    "sequence": "hpatches:v_laptop",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 33,
+    "precision": 0.0,
+    "time": 0.12654542922973633,
+    "sequence": "hpatches:v_laptop",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1499,
+    "precision": 0.9826551034022681,
+    "time": 0.10129642486572266,
+    "sequence": "hpatches:v_london",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1337,
+    "precision": 0.9790575916230366,
+    "time": 0.10060286521911621,
+    "sequence": "hpatches:v_london",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1247,
+    "precision": 0.9735364875701684,
+    "time": 0.10969114303588867,
+    "sequence": "hpatches:v_london",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1451,
+    "precision": 0.9765678842177808,
+    "time": 0.10172510147094727,
+    "sequence": "hpatches:v_london",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1491,
+    "precision": 0.9798792756539235,
+    "time": 0.10148167610168457,
+    "sequence": "hpatches:v_london",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1346,
+    "precision": 0.9465081723625557,
+    "time": 0.12331390380859375,
+    "sequence": "hpatches:v_machines",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 986,
+    "precision": 0.783975659229209,
+    "time": 0.1378622055053711,
+    "sequence": "hpatches:v_machines",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1179,
+    "precision": 0.9770992366412213,
+    "time": 0.11913824081420898,
+    "sequence": "hpatches:v_machines",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 906,
+    "precision": 0.8664459161147903,
+    "time": 0.13008451461791992,
+    "sequence": "hpatches:v_machines",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1095,
+    "precision": 0.9908675799086758,
+    "time": 0.11875152587890625,
+    "sequence": "hpatches:v_machines",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1043,
+    "precision": 0.9204218600191755,
+    "time": 0.11824393272399902,
+    "sequence": "hpatches:v_man",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 809,
+    "precision": 0.799752781211372,
+    "time": 0.12649250030517578,
+    "sequence": "hpatches:v_man",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 771,
+    "precision": 0.8184176394293126,
+    "time": 0.12401866912841797,
+    "sequence": "hpatches:v_man",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 992,
+    "precision": 0.8790322580645161,
+    "time": 0.11761760711669922,
+    "sequence": "hpatches:v_man",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 992,
+    "precision": 0.8860887096774194,
+    "time": 0.11762094497680664,
+    "sequence": "hpatches:v_man",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 785,
+    "precision": 0.9643312101910828,
+    "time": 0.11185169219970703,
+    "sequence": "hpatches:v_maskedman",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 642,
+    "precision": 0.9392523364485982,
+    "time": 0.1126871109008789,
+    "sequence": "hpatches:v_maskedman",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 754,
+    "precision": 0.9562334217506632,
+    "time": 0.1110832691192627,
+    "sequence": "hpatches:v_maskedman",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 795,
+    "precision": 0.9660377358490566,
+    "time": 0.1116328239440918,
+    "sequence": "hpatches:v_maskedman",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 333,
+    "precision": 0.8798798798798799,
+    "time": 0.11759328842163086,
+    "sequence": "hpatches:v_maskedman",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1097,
+    "precision": 0.9662716499544212,
+    "time": 0.11763358116149902,
+    "sequence": "hpatches:v_pomegranate",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1059,
+    "precision": 0.8895184135977338,
+    "time": 0.1178288459777832,
+    "sequence": "hpatches:v_pomegranate",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 951,
+    "precision": 0.9631966351209253,
+    "time": 0.11710858345031738,
+    "sequence": "hpatches:v_pomegranate",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1057,
+    "precision": 0.9574266792809839,
+    "time": 0.11827397346496582,
+    "sequence": "hpatches:v_pomegranate",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1103,
+    "precision": 0.970081595648232,
+    "time": 0.12053823471069336,
+    "sequence": "hpatches:v_pomegranate",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 809,
+    "precision": 0.0,
+    "time": 0.1340794563293457,
+    "sequence": "hpatches:v_posters",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1026,
+    "precision": 0.0,
+    "time": 0.13248515129089355,
+    "sequence": "hpatches:v_posters",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 954,
+    "precision": 0.0,
+    "time": 0.13214731216430664,
+    "sequence": "hpatches:v_posters",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 857,
+    "precision": 0.0011668611435239206,
+    "time": 0.13550209999084473,
+    "sequence": "hpatches:v_posters",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 806,
+    "precision": 0.0,
+    "time": 0.13727259635925293,
+    "sequence": "hpatches:v_posters",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1116,
+    "precision": 0.0528673835125448,
+    "time": 0.13770627975463867,
+    "sequence": "hpatches:v_samples",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1248,
+    "precision": 0.032852564102564104,
+    "time": 0.13661694526672363,
+    "sequence": "hpatches:v_samples",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1085,
+    "precision": 0.07188940092165899,
+    "time": 0.13509654998779297,
+    "sequence": "hpatches:v_samples",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1107,
+    "precision": 0.028906955736224028,
+    "time": 0.13465213775634766,
+    "sequence": "hpatches:v_samples",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 996,
+    "precision": 0.06927710843373494,
+    "time": 0.16425800323486328,
+    "sequence": "hpatches:v_samples",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 895,
+    "precision": 0.9575418994413408,
+    "time": 0.11368823051452637,
+    "sequence": "hpatches:v_soldiers",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 660,
+    "precision": 0.943939393939394,
+    "time": 0.11907696723937988,
+    "sequence": "hpatches:v_soldiers",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 545,
+    "precision": 0.9357798165137615,
+    "time": 0.11801576614379883,
+    "sequence": "hpatches:v_soldiers",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 488,
+    "precision": 0.9057377049180327,
+    "time": 0.12703323364257812,
+    "sequence": "hpatches:v_soldiers",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 786,
+    "precision": 0.9541984732824428,
+    "time": 0.11342763900756836,
+    "sequence": "hpatches:v_soldiers",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1446,
+    "precision": 0.983402489626556,
+    "time": 0.1141209602355957,
+    "sequence": "hpatches:v_strand",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1033,
+    "precision": 0.8489835430784124,
+    "time": 0.11681079864501953,
+    "sequence": "hpatches:v_strand",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1035,
+    "precision": 0.8743961352657005,
+    "time": 0.11672735214233398,
+    "sequence": "hpatches:v_strand",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1057,
+    "precision": 0.8703878902554399,
+    "time": 0.1219944953918457,
+    "sequence": "hpatches:v_strand",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 849,
+    "precision": 0.7891637220259128,
+    "time": 0.12191081047058105,
+    "sequence": "hpatches:v_strand",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1745,
+    "precision": 0.9936962750716333,
+    "time": 0.1021275520324707,
+    "sequence": "hpatches:v_sunseason",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1391,
+    "precision": 0.9935298346513299,
+    "time": 0.10126662254333496,
+    "sequence": "hpatches:v_sunseason",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 922,
+    "precision": 0.9696312364425163,
+    "time": 0.11034393310546875,
+    "sequence": "hpatches:v_sunseason",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 825,
+    "precision": 0.9781818181818182,
+    "time": 0.11733722686767578,
+    "sequence": "hpatches:v_sunseason",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 672,
+    "precision": 0.96875,
+    "time": 0.11945414543151855,
+    "sequence": "hpatches:v_sunseason",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1225,
+    "precision": 0.9755102040816327,
+    "time": 0.1126713752746582,
+    "sequence": "hpatches:v_tabletop",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 939,
+    "precision": 0.9691160809371672,
+    "time": 0.12780404090881348,
+    "sequence": "hpatches:v_tabletop",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 836,
+    "precision": 0.9617224880382775,
+    "time": 0.12436676025390625,
+    "sequence": "hpatches:v_tabletop",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 855,
+    "precision": 0.9567251461988304,
+    "time": 0.12619400024414062,
+    "sequence": "hpatches:v_tabletop",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 877,
+    "precision": 0.9612314709236032,
+    "time": 0.13267087936401367,
+    "sequence": "hpatches:v_tabletop",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 709,
+    "precision": 0.0,
+    "time": 0.09212493896484375,
+    "sequence": "hpatches:v_talent",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 643,
+    "precision": 0.0,
+    "time": 0.0897057056427002,
+    "sequence": "hpatches:v_talent",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 647,
+    "precision": 0.0,
+    "time": 0.09720349311828613,
+    "sequence": "hpatches:v_talent",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 478,
+    "precision": 0.0,
+    "time": 0.09738659858703613,
+    "sequence": "hpatches:v_talent",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 569,
+    "precision": 0.0017574692442882249,
+    "time": 0.0959022045135498,
+    "sequence": "hpatches:v_talent",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 968,
+    "precision": 0.987603305785124,
+    "time": 0.11781454086303711,
+    "sequence": "hpatches:v_tempera",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1069,
+    "precision": 0.9925163704396632,
+    "time": 0.1253809928894043,
+    "sequence": "hpatches:v_tempera",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 887,
+    "precision": 0.9954904171364148,
+    "time": 0.12388777732849121,
+    "sequence": "hpatches:v_tempera",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 810,
+    "precision": 0.9950617283950617,
+    "time": 0.12927007675170898,
+    "sequence": "hpatches:v_tempera",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 515,
+    "precision": 0.9514563106796117,
+    "time": 0.12230563163757324,
+    "sequence": "hpatches:v_tempera",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 559,
+    "precision": 0.9964221824686941,
+    "time": 0.10452437400817871,
+    "sequence": "hpatches:v_there",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 254,
+    "precision": 0.9763779527559056,
+    "time": 0.11472892761230469,
+    "sequence": "hpatches:v_there",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 154,
+    "precision": 0.9545454545454546,
+    "time": 0.11122894287109375,
+    "sequence": "hpatches:v_there",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 85,
+    "precision": 0.7529411764705882,
+    "time": 0.11458015441894531,
+    "sequence": "hpatches:v_there",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 22,
+    "precision": 0.0,
+    "time": 0.11112737655639648,
+    "sequence": "hpatches:v_there",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1521,
+    "precision": 0.9809335963182118,
+    "time": 0.11523318290710449,
+    "sequence": "hpatches:v_underground",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1252,
+    "precision": 0.9624600638977636,
+    "time": 0.12485241889953613,
+    "sequence": "hpatches:v_underground",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 959,
+    "precision": 0.9655891553701773,
+    "time": 0.12604641914367676,
+    "sequence": "hpatches:v_underground",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 757,
+    "precision": 0.9035667107001321,
+    "time": 0.1227264404296875,
+    "sequence": "hpatches:v_underground",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 458,
+    "precision": 0.7816593886462883,
+    "time": 0.1223299503326416,
+    "sequence": "hpatches:v_underground",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1590,
+    "precision": 0.9893081761006289,
+    "time": 0.11682581901550293,
+    "sequence": "hpatches:v_vitro",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1380,
+    "precision": 0.9695652173913043,
+    "time": 0.11565971374511719,
+    "sequence": "hpatches:v_vitro",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1137,
+    "precision": 0.9771328056288479,
+    "time": 0.13057851791381836,
+    "sequence": "hpatches:v_vitro",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1427,
+    "precision": 0.9719691660826909,
+    "time": 0.11624503135681152,
+    "sequence": "hpatches:v_vitro",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1239,
+    "precision": 0.9507667473769169,
+    "time": 0.1215062141418457,
+    "sequence": "hpatches:v_vitro",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1377,
+    "precision": 0.9382716049382716,
+    "time": 0.1041560173034668,
+    "sequence": "hpatches:v_wall",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1164,
+    "precision": 0.8960481099656358,
+    "time": 0.10954833030700684,
+    "sequence": "hpatches:v_wall",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1352,
+    "precision": 0.9482248520710059,
+    "time": 0.0985724925994873,
+    "sequence": "hpatches:v_wall",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 990,
+    "precision": 0.898989898989899,
+    "time": 0.10712480545043945,
+    "sequence": "hpatches:v_wall",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 971,
+    "precision": 0.8135942327497425,
+    "time": 0.11356902122497559,
+    "sequence": "hpatches:v_wall",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1142,
+    "precision": 0.9816112084063048,
+    "time": 0.13115239143371582,
+    "sequence": "hpatches:v_wapping",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 902,
+    "precision": 0.9623059866962306,
+    "time": 0.12875103950500488,
+    "sequence": "hpatches:v_wapping",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 862,
+    "precision": 0.9373549883990719,
+    "time": 0.12803339958190918,
+    "sequence": "hpatches:v_wapping",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 726,
+    "precision": 0.9738292011019284,
+    "time": 0.13193750381469727,
+    "sequence": "hpatches:v_wapping",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 506,
+    "precision": 0.8972332015810277,
+    "time": 0.13424348831176758,
+    "sequence": "hpatches:v_wapping",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1022,
+    "precision": 0.8639921722113503,
+    "time": 0.12708115577697754,
+    "sequence": "hpatches:v_war",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 839,
+    "precision": 0.8009535160905841,
+    "time": 0.1341385841369629,
+    "sequence": "hpatches:v_war",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1296,
+    "precision": 0.9753086419753086,
+    "time": 0.11571955680847168,
+    "sequence": "hpatches:v_war",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1298,
+    "precision": 0.9622496147919877,
+    "time": 0.12308001518249512,
+    "sequence": "hpatches:v_war",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 834,
+    "precision": 0.7769784172661871,
+    "time": 0.12447214126586914,
+    "sequence": "hpatches:v_war",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1267,
+    "precision": 0.9826361483820047,
+    "time": 0.12065887451171875,
+    "sequence": "hpatches:v_weapons",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1068,
+    "precision": 0.9775280898876404,
+    "time": 0.13016605377197266,
+    "sequence": "hpatches:v_weapons",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1094,
+    "precision": 0.9515539305301646,
+    "time": 0.11997389793395996,
+    "sequence": "hpatches:v_weapons",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1234,
+    "precision": 0.9619124797406807,
+    "time": 0.12750983238220215,
+    "sequence": "hpatches:v_weapons",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 1111,
+    "precision": 0.9585958595859586,
+    "time": 0.12398314476013184,
+    "sequence": "hpatches:v_weapons",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 530,
+    "precision": 0.0,
+    "time": 0.1156623363494873,
+    "sequence": "hpatches:v_woman",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 678,
+    "precision": 0.0,
+    "time": 0.11475706100463867,
+    "sequence": "hpatches:v_woman",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 630,
+    "precision": 0.0,
+    "time": 0.11945676803588867,
+    "sequence": "hpatches:v_woman",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 466,
+    "precision": 0.0,
+    "time": 0.12676310539245605,
+    "sequence": "hpatches:v_woman",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 566,
+    "precision": 0.0,
+    "time": 0.11280632019042969,
+    "sequence": "hpatches:v_woman",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 893,
+    "precision": 0.9742441209406495,
+    "time": 0.10646176338195801,
+    "sequence": "hpatches:v_wormhole",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 1191,
+    "precision": 0.979009235936188,
+    "time": 0.10585618019104004,
+    "sequence": "hpatches:v_wormhole",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1220,
+    "precision": 0.9729508196721312,
+    "time": 0.10646867752075195,
+    "sequence": "hpatches:v_wormhole",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 816,
+    "precision": 0.9178921568627451,
+    "time": 0.11573004722595215,
+    "sequence": "hpatches:v_wormhole",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 495,
+    "precision": 0.802020202020202,
+    "time": 0.11888289451599121,
+    "sequence": "hpatches:v_wormhole",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 826,
+    "precision": 0.9927360774818402,
+    "time": 0.11522555351257324,
+    "sequence": "hpatches:v_wounded",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 560,
+    "precision": 0.9553571428571429,
+    "time": 0.11575722694396973,
+    "sequence": "hpatches:v_wounded",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 291,
+    "precision": 0.8384879725085911,
+    "time": 0.11422419548034668,
+    "sequence": "hpatches:v_wounded",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 578,
+    "precision": 0.9532871972318339,
+    "time": 0.11958742141723633,
+    "sequence": "hpatches:v_wounded",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 399,
+    "precision": 0.8621553884711779,
+    "time": 0.11727619171142578,
+    "sequence": "hpatches:v_wounded",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 1352,
+    "precision": 0.9733727810650887,
+    "time": 0.1120607852935791,
+    "sequence": "hpatches:v_yard",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 801,
+    "precision": 0.8426966292134831,
+    "time": 0.12084269523620605,
+    "sequence": "hpatches:v_yard",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 1185,
+    "precision": 0.9561181434599156,
+    "time": 0.11811661720275879,
+    "sequence": "hpatches:v_yard",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 1011,
+    "precision": 0.8684470820969338,
+    "time": 0.1210625171661377,
+    "sequence": "hpatches:v_yard",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 781,
+    "precision": 0.7810499359795134,
+    "time": 0.1386575698852539,
+    "sequence": "hpatches:v_yard",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 691,
+    "precision": 0.9768451519536903,
+    "time": 0.11422157287597656,
+    "sequence": "hpatches:v_yuri",
+    "pair": "1.ppm->2.ppm"
+  },
+  {
+    "n_matches": 563,
+    "precision": 0.9360568383658969,
+    "time": 0.12061166763305664,
+    "sequence": "hpatches:v_yuri",
+    "pair": "1.ppm->3.ppm"
+  },
+  {
+    "n_matches": 483,
+    "precision": 0.7991718426501035,
+    "time": 0.1221003532409668,
+    "sequence": "hpatches:v_yuri",
+    "pair": "1.ppm->4.ppm"
+  },
+  {
+    "n_matches": 590,
+    "precision": 0.9661016949152542,
+    "time": 0.12210750579833984,
+    "sequence": "hpatches:v_yuri",
+    "pair": "1.ppm->5.ppm"
+  },
+  {
+    "n_matches": 473,
+    "precision": 0.9069767441860465,
+    "time": 0.12078475952148438,
+    "sequence": "hpatches:v_yuri",
+    "pair": "1.ppm->6.ppm"
+  },
+  {
+    "n_matches": 540,
+    "precision": 0.8814814814814815,
+    "time": 0.09955549240112305,
+    "sequence": "oxford:bark",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 7,
+    "precision": 0.0,
+    "time": 0.09581804275512695,
+    "sequence": "oxford:bark",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 12,
+    "precision": 0.0,
+    "time": 0.10112547874450684,
+    "sequence": "oxford:bark",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 168,
+    "precision": 0.9345238095238095,
+    "time": 0.11912393569946289,
+    "sequence": "oxford:bark",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 15,
+    "precision": 0.0,
+    "time": 0.10032391548156738,
+    "sequence": "oxford:bark",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 1425,
+    "precision": 0.9698245614035088,
+    "time": 0.10990047454833984,
+    "sequence": "oxford:bikes",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 1358,
+    "precision": 0.9624447717231223,
+    "time": 0.10937237739562988,
+    "sequence": "oxford:bikes",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 1061,
+    "precision": 0.939679547596607,
+    "time": 0.1061248779296875,
+    "sequence": "oxford:bikes",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 881,
+    "precision": 0.8444948921679909,
+    "time": 0.10560727119445801,
+    "sequence": "oxford:bikes",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 726,
+    "precision": 0.7534435261707989,
+    "time": 0.10907483100891113,
+    "sequence": "oxford:bikes",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 1089,
+    "precision": 0.9641873278236914,
+    "time": 0.1334702968597412,
+    "sequence": "oxford:graf",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 898,
+    "precision": 0.8518930957683741,
+    "time": 0.13646864891052246,
+    "sequence": "oxford:graf",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 781,
+    "precision": 0.8578745198463509,
+    "time": 0.14400124549865723,
+    "sequence": "oxford:graf",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 554,
+    "precision": 0.8592057761732852,
+    "time": 0.13890790939331055,
+    "sequence": "oxford:graf",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 464,
+    "precision": 0.7219827586206896,
+    "time": 0.15078163146972656,
+    "sequence": "oxford:graf",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 1450,
+    "precision": 0.9910344827586207,
+    "time": 0.10933375358581543,
+    "sequence": "oxford:leuven",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 1401,
+    "precision": 0.9857244825124911,
+    "time": 0.10979294776916504,
+    "sequence": "oxford:leuven",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 1292,
+    "precision": 0.9914860681114551,
+    "time": 0.10751128196716309,
+    "sequence": "oxford:leuven",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 1274,
+    "precision": 0.9843014128728415,
+    "time": 0.10697722434997559,
+    "sequence": "oxford:leuven",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 1127,
+    "precision": 0.9787045252883763,
+    "time": 0.1055912971496582,
+    "sequence": "oxford:leuven",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 732,
+    "precision": 0.8292349726775956,
+    "time": 0.10655426979064941,
+    "sequence": "oxford:trees",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 707,
+    "precision": 0.7609618104667609,
+    "time": 0.10512971878051758,
+    "sequence": "oxford:trees",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 628,
+    "precision": 0.6528662420382165,
+    "time": 0.10905146598815918,
+    "sequence": "oxford:trees",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 581,
+    "precision": 0.6161790017211703,
+    "time": 0.11148595809936523,
+    "sequence": "oxford:trees",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 535,
+    "precision": 0.5065420560747663,
+    "time": 0.11149835586547852,
+    "sequence": "oxford:trees",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 1138,
+    "precision": 0.9885764499121266,
+    "time": 0.11153602600097656,
+    "sequence": "oxford:ubc",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 1079,
+    "precision": 0.9759036144578314,
+    "time": 0.11368560791015625,
+    "sequence": "oxford:ubc",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 1023,
+    "precision": 0.9130009775171065,
+    "time": 0.11735391616821289,
+    "sequence": "oxford:ubc",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 640,
+    "precision": 0.846875,
+    "time": 0.1220095157623291,
+    "sequence": "oxford:ubc",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 520,
+    "precision": 0.7788461538461539,
+    "time": 0.1292436122894287,
+    "sequence": "oxford:ubc",
+    "pair": "img1.ppm->img6.ppm"
+  },
+  {
+    "n_matches": 1312,
+    "precision": 0.0038109756097560975,
+    "time": 0.11123347282409668,
+    "sequence": "oxford:wall",
+    "pair": "img1.ppm->img2.ppm"
+  },
+  {
+    "n_matches": 1218,
+    "precision": 0.0024630541871921183,
+    "time": 0.11521649360656738,
+    "sequence": "oxford:wall",
+    "pair": "img1.ppm->img3.ppm"
+  },
+  {
+    "n_matches": 999,
+    "precision": 0.004004004004004004,
+    "time": 0.11564373970031738,
+    "sequence": "oxford:wall",
+    "pair": "img1.ppm->img4.ppm"
+  },
+  {
+    "n_matches": 827,
+    "precision": 0.008464328899637243,
+    "time": 0.12032628059387207,
+    "sequence": "oxford:wall",
+    "pair": "img1.ppm->img5.ppm"
+  },
+  {
+    "n_matches": 610,
+    "precision": 0.006557377049180328,
+    "time": 0.12670660018920898,
+    "sequence": "oxford:wall",
+    "pair": "img1.ppm->img6.ppm"
+  }
+]
