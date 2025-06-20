@@ -8,7 +8,7 @@ The script computes matching **precision** based on reprojection error after **R
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch with CUDA (for GPU acceleration)
@@ -18,7 +18,7 @@ The script computes matching **precision** based on reprojection error after **R
 
 Install dependencies:
 
-```bash
+'''
 pip install torch torchvision opencv-python numpy tqdm
 
 pip install torch einops yacs kornia
@@ -26,7 +26,7 @@ pip install torch einops yacs kornia
 git clone https://github.com/cvg/LightGlue.git
 
 git clone https://github.com/zju3dv/LoFTR.git
-
+'''
 #Usage
 
 python run_patches.py \
